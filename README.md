@@ -1,2 +1,3 @@
-Utilizando a Lógica em Programação.
+# Uso da Lógica Computacional.
+
 Começando com Algortimos.
